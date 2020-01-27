@@ -1,4 +1,4 @@
-package com.app.emp.exception;
+package com.app.emp.exception_pack;
 import java.util.Date;
 
 public class ErrorDetails {
