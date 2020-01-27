@@ -1,10 +1,12 @@
 package com.app.emp.model;
 import javax.persistence.Entity;
+import javax.persistence.Id;
 import javax.persistence.Table;
 
 @Entity
 @Table(name = "emp_curd")
 public class Employee {
+	@Id
 	private int empId;
 	private String empName;
 	private String designation;
