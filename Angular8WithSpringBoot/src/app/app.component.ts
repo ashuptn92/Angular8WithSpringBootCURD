@@ -6,5 +6,5 @@ import { Component } from '@angular/core';
   styleUrls: ['./app.component.css']
 })
 export class AppComponent {
-  title = 'Angular8WithSpringBoot';
+  title = 'Web Application With Angular-8 By Using Spring Boot And MySQL DB';
 }
